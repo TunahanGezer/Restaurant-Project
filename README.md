@@ -26,7 +26,8 @@ This project is a simple restaurant management system built using Python's Tkint
 
 ## Screenshots
 
-[Include screenshots of the application here]
+![Screenshot 1](https://imgur.com/a/cUtuqyh)
+
 
 ## Notes
 
