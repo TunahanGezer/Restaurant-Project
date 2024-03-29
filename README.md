@@ -26,7 +26,8 @@ This project is a simple restaurant management system built using Python's Tkint
 
 ## Screenshots
 
-![Screenshot 1](https://hizliresim.com/jhrdzxb)
+![Ekran görüntüsü 2024-03-29 153454](https://github.com/TunahanGezer/Restaurant-Project/assets/128300182/e44cf4ef-521a-45e7-aa2a-7584dedbabd7)
+
 
 
 ## Notes
